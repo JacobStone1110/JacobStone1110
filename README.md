@@ -1,18 +1,29 @@
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&background=000000&center=true&vCenter=true&width=1000&lines=DeFi+and+Bot+Developer+for+EVM+%2B+Solana" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&background=222222&center=true&vCenter=true&width=1000&lines=Professional Full Stack Developer and Blockchain Developer" alt="Typing SVG" /></a>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JacobStone1110&label=Profile%20views&color=0e75b6&style=flat" alt="JacobStone1110" /> </p>
 
+- Senior Full stack developer.
+
+- Major Experiences
+
+    • Web design and Frontend Develpment with React.JS, Next.JS, Vue.JS, ASP.NET, Typescript, TailwindCSS.
+  
+    • Backend Development with Node.JS, GraphQL, Golang, .NET.
+
+    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Solana, Rust, etc)
+  
 <br clear="both" />
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=BTCoin23&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=500"
     height="175"
     alt="languages graph" />
 </div>
